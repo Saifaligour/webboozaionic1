@@ -1,0 +1,7 @@
+{
+  "name": "videocllingApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
